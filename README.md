@@ -1,0 +1,1 @@
+# Persian-sign-language-detection-based-on-normalized-depth-image-information
