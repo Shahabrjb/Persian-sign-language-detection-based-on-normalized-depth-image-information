@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Persian Sign Language Detection Based on Normalized Depth Image Information"
+message: "If you use this research, please cite the published work."
+type: article
+authors:
+  - family-names: Rajabi
+    given-names: Shahab
+  - family-names: Mousavinia
+    given-names: A.
+year: 2019
+journal: "Journal of Control"
